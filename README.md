@@ -25,3 +25,6 @@ To get started with this project, follow these steps:
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
+
+1. FORK the repository.
+2. Create a feature branch: git checkout -b feature-name
