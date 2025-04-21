@@ -24,3 +24,4 @@ To get started with this project, follow these steps:
 3. [Additional steps to set up the project, e.g., install dependencies or build the project
 
 ## Contributing
+Contributions are welcome! Please follow these steps to contribute:
