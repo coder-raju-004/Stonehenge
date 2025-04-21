@@ -19,3 +19,5 @@ To get started with this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/coder-raju-004/Stonehenge.git
+
+2. Navigate to the project directory: cd Stonehenge
